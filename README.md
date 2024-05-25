@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there, I am Rumen! I am in my final year at the Technical University of Sofia, pursuing a bachelor's degree in Computer and Software Engineering, and I am also studying Java Development at the Software University in Sofia, Bulgaria. 👋
 
-<!--
-**runikolov01/runikolov01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am currently working on my final project for university. You can have a look here: https://github.com/runikolov01/RecycleRewards . It is a web-based application to encourage users to recycle plastic bottles.
 
-Here are some ideas to get you started:
+🔍 I am looking for an internship or Junior position for Java web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 📫 How to reach me:
+<img src=”images/gmail.png” alt=”alternate text”width=”30px”></a> runikolov01@gmail.com </li>
+
+🤝 Connect with me:
+
+<a href=”https://www.linkedin.com/in/runikolov01/"><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
+<a href=”https://www.instagram.com/r_nikolov1/"><img src=”images/instagram.png” alt=”alternate text”width=”30px”></a>
+
+⚡ Interesting facts about me:
+✈️ I have participated in around 20 Erasmus+ projects where I have developed many of my skills.
+🌍 I love traveling - by budgeting properly, even though I'm only 22 years old, I've traveled to over 40 countries around the world.
