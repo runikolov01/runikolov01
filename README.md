@@ -4,13 +4,15 @@
 
 🔍 I am looking for an internship or Junior position for Java web developer.
 
- 📫 How to reach me:
-<img src=”images/gmail.png” alt=”alternate text”width=”30px”></a> runikolov01@gmail.com </li>
 
-🤝 Connect with me:
 
-<a href=”https://www.linkedin.com/in/runikolov01/”><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
-<a href=”https://www.instagram.com/r_nikolov1/”><img src=”images/instagram.png” alt=”alternate text”width=”30px”></a>
+### 🤝 Connect with me:
+<a href="https://www.linkedin.com/in/runikolov01/"><img src="images/linkedin.png" alt="alternate text"width="30px"></a>
+<a href="https://www.instagram.com/r_nikolov1/"><img src="images/instagram.png" alt="alternate text"width="30px"></a>
+💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
+ ###📫 How to reach me:
+<img src="images/gmail.png" alt="alternate text"width="30px"></a> runikolov01@gmail.com
 
 ⚡ Interesting facts about me:
 ✈️ I have participated in around 20 Erasmus+ projects where I have developed many of my skills.
