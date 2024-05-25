@@ -1,6 +1,7 @@
-## Hi there, I am Rumen!👋
+## Hello, I am Rumen!👋 
+An independent and self-motivated Java Web Development student with practical experience with Java, Spring, MySQL, HTML, CSS, JavaScript, Bootstrap. 
 
-### 🔍 I am looking for an internship or Junior position for Java web developer.
+### 🔍 I am looking to apply my acquired skills in internship or Junior position as Java Developer.
 
 ## 📚Studying:
 🎓I am in my final year at the Technical University of Sofia, pursuing a bachelor's degree in Computer and Software Engineering.
