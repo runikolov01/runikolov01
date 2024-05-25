@@ -2,7 +2,7 @@
 An independent and self-motivated Java Web Development student with practical experience with Java, Spring, MySQL, HTML, CSS, JavaScript, Bootstrap. 
 
 ### 🔍 I am looking to apply my acquired skills in internship or Junior position as Java Developer.
-- You can check my Resume here: https://drive.google.com/file/d/1L4PFaBIRNxvu1HiliI8hhHIuPWka7reu/view?usp=sharing
+- You can check my Resume here: https://drive.google.com/file/d/1OO-4Z1FfR2VatWz-Uwkpfc3jXSAUqfZR/view?usp=sharing
 
 ## 📚Studying:
 🎓I am in my final year at the Technical University of Sofia, pursuing a bachelor's degree in Computer and Software Engineering.
