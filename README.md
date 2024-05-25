@@ -9,8 +9,8 @@
 
 🤝 Connect with me:
 
-<a href=”https://www.linkedin.com/in/runikolov01/"><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
-<a href=”https://www.instagram.com/r_nikolov1/"><img src=”images/instagram.png” alt=”alternate text”width=”30px”></a>
+<a href=”https://www.linkedin.com/in/runikolov01/”><img src=”images/linkedin.png” alt=”alternate text”width=”30px”></a>
+<a href=”https://www.instagram.com/r_nikolov1/”><img src=”images/instagram.png” alt=”alternate text”width=”30px”></a>
 
 ⚡ Interesting facts about me:
 ✈️ I have participated in around 20 Erasmus+ projects where I have developed many of my skills.
