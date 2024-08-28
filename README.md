@@ -1,5 +1,5 @@
 ## Hello, I am Rumen!👋 
-An independent and self-motivated Java Web Development student with practical experience with Java, Spring, MySQL, HTML, CSS, JavaScript, Bootstrap. 
+Motivated Java Web Development student with hands-on experience in Java, Spring, MySQL, HTML, CSS, JavaScript and Bootstrap, seeking an internship or Junior Developer position to leverage my skills and contribute to impactful projects.
 
 ## 🔍 I am looking to apply my acquired skills in internship or Junior position as Java Developer.
 - You can check my Resume here: https://drive.google.com/file/d/114fXoLb89QVagpdarZIfdknAQWZBhZNl/view?usp=sharing
