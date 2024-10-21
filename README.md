@@ -1,23 +1,32 @@
 ## Hello, I am Rumen!👋 
-Motivated Java Web Developer with hands-on experience in Java, Spring, MySQL, HTML, CSS, JavaScript and Bootstrap, recently graduated with a degree in Computer and Software Engineering.
+Motivated Java Web Developer with hands-on experience in Java, Spring, MySQL, HTML, CSS, JavaScript and Bootstrap, recently graduated with a Bachelor's degree in Computer and Software Engineering.
 
 ## 🔍 I am looking to apply my acquired skills in internship or Junior Developer position to leverage my skills and contribute to impactful projects.
-- You can check my Resume here: https://drive.google.com/file/d/114fXoLb89QVagpdarZIfdknAQWZBhZNl/view?usp=sharing
+- You can check my Resume here: https://drive.google.com/file/d/1qrSDciwWUiDSh8bKo4wc80K5MA4S37JH/view?usp=sharing
 
 ## 📚Studying:
-🎓I am in my final year at the Technical University of Sofia, pursuing a bachelor's degree in Computer and Software Engineering.
+🎓 Now I pursе a Master's degree in Management and Business Information Systems at the Technical University of Sofia.
 
-👨‍💻I am also studying Java Development at the Software University in Sofia, Bulgaria.
+🎓 I graduated from the Technical University of Sofia in July 2024 - I have a Bachelor's degree in Computer and Software Engineering.
 
-## 🔭 I'm currently working on:
+🎓 In August 2024 I completed the Java Development whole course at the Software University in Sofia, Bulgaria.
 
-my final project for university. You can have a look here: https://github.com/runikolov01/RecycleRewards . It is a web-based application to encourage users to recycle plastic bottles. Used technologies:
+## 🔭 My last project is:
+
+My final project for university.
+
+You can have a look here: https://github.com/runikolov01/RecycleRewards . 
+
+It is a web-based application to encourage users to recycle plastic bottles. 
+
+
+Used technologies:
 -  Frontend: HTML, CSS, JavaScript, Bootstrap
 -  Backend: Java, Spring, Hibernate, MySQL
 
 ## 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/runikolov01/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/r_nikolov1/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+</br>
 📧: runikolov01@gmail.com
 </br>
 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -26,9 +35,9 @@ my final project for university. You can have a look here: https://github.com/ru
 - Spring Boot
 
 ## ⚡ Interesting facts about me:
-✈️ I have participated in around 20 Erasmus+ projects where I have developed many of my skills.
+✈️ I have participated in around 20 Erasmus+ projects where I have practiced many of my skills.
 
-🌍 I love traveling - by budgeting properly, even though I'm only 22 years old, I've traveled to over 40 countries around the world.
+🌍 I love traveling - by budgeting properly, even though I'm only 23 years old, I've traveled to over 45 countries around the world.
 
 ## 💼 Technical Skills:
 
